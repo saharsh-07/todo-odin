@@ -1,0 +1,23 @@
+{
+  "name": "todo-odin",
+  "version": "1.0.0",
+  "description": "TOP Project",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/saharsh-07/todo-odin.git"
+  },
+  "keywords": [
+    "todo",
+    "list"
+  ],
+  "author": "Saharsh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saharsh-07/todo-odin/issues"
+  },
+  "homepage": "https://github.com/saharsh-07/todo-odin#readme"
+}
